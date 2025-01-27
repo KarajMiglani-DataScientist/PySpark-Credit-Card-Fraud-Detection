@@ -139,7 +139,7 @@ Contributions to this project are welcome. Please submit a pull request with cle
 This project is licensed under the [Specify License] License - see the LICENSE file for details.
 
 11. Acknowledgments
-The authors would like to acknowledge the creators of the PaySim dataset for providing the valuable resource for this research.
+The I would like to acknowledge the creators of the PaySim dataset for providing the valuable resource for this research.
 This README provides a high-level overview of the project. For more detailed information, please refer to the project's Jupyter Notebook.
 
 Note: This README is a template and needs to be further customized with the specific details of your project, including the actual results, visualizations, and any other relevant information.
