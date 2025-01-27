@@ -91,16 +91,15 @@ Financial institutions face significant challenges in detecting fraudulent trans
     * PySpark
     * Pandas (for data exploration and visualization)
     * Matplotlib/Seaborn (for data visualization)
-* **Hardware:** 
-    * Sufficient memory and processing power for handling large datasets. 
-* **Other:**
-    * A stable internet connection for downloading the dataset.
-
+  
 ## 4. Installation
 
-1. **Install required libraries using pip:**
+1. **Dependencies:**
    ```bash
-   pip install pyspark pandas matplotlib seaborn
+   pyspark
+   pandas
+   matplotlib
+   seaborn
 
 
 
